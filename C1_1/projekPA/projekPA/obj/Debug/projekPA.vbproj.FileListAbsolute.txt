@@ -1,0 +1,38 @@
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.vbproj.AssemblyReference.cache
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.login.resources
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.Resources.resources
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.vbproj.GenerateResource.cache
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.vbproj.CoreCompileInputs.cache
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\bin\Debug\projekPA.exe.config
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\bin\Debug\projekPA.exe
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\bin\Debug\projekPA.pdb
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\bin\Debug\projekPA.xml
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.exe
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.xml
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.pdb
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\bin\Debug\mysql.data.dll
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.vbproj.Up2Date
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.Form1.resources
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.tambah.resources
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.lihat.resources
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.ubah.resources
+C:\Users\azhar\Documents\Visual Studio 2022\projekPA\projekPA\obj\Debug\projekPA.register.resources
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\bin\Debug\projekPA.exe.config
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.exe
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.xml
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.pdb
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\bin\Debug\projekPA.exe
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\bin\Debug\projekPA.pdb
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\bin\Debug\projekPA.xml
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.vbprojResolveAssemblyReference.cache
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.Form1.resources
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.lihat.resources
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.login.resources
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.Resources.resources
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.register.resources
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.tambah.resources
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.ubah.resources
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.vbproj.GenerateResource.Cache
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.FormUser.resources
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.FormKeranjang.resources
+C:\Users\fathu\Downloads\projekPA\projekPA\projekPA\obj\Debug\projekPA.FormInvoice.resources
